@@ -132,6 +132,7 @@ dmypy.json
 # private files
 vad
 token
+files/*/*.txt
 
 # music/sound files
 *.mp3
