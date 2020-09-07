@@ -128,6 +128,14 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
 # private files
 vad
 token
+
+# music/sound files
+*.mp3
+*.raw
+
+# backup files
+/*.bak/
