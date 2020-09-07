@@ -135,6 +135,7 @@ token
 
 # music/sound files
 *.mp3
+*.wav
 *.raw
 
 # backup files
